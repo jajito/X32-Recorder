@@ -22,7 +22,7 @@ Video of the creature
 https://www.youtube.com/watch?v=mOaofRDe_WI
 
 Thanks for Peter Dikant for his wisdom and generosity.
-This is only a continuation of his marvelous work.
+This is only a continuation of his work.
 https://dikant.de/2018/02/28/raspberry-xr18-recorder/
 
 I'm not a programmer, so excuse my rough coding and my poor english.
