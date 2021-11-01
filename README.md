@@ -1,4 +1,4 @@
-# X32-Recorder.
+# X32-Recorder
 Raspberry PI Behringer X32 Recorder and MP3 player. Records up to 32 tracks and plays MP3. Uses the X32 DAW Remote scribble strip to interact with user.
 You can select files to play, folders, options, play, stop, record, etc with the DAW remote buttons, and see the files, formats, recording time, etc in the scribble.
 You can multitrack record an play with no time or memory size limits. Virtual sond test is possible.
