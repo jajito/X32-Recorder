@@ -24,3 +24,5 @@ https://dikant.de/2018/02/28/raspberry-xr18-recorder/
 
 I'm not a programmer, so excuse my rough coding and my poor english.
 If you find it useful or you are making money with it, consider buying me a coffee. 
+https://www.buymeacoffee.com/jajito
+
