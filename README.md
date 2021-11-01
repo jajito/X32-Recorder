@@ -17,6 +17,8 @@ It uses SOX for multitrack recording, mpg123 for MP3 playing, and RTMIDI to MIDI
 It uses a SAMBA Server in order to have an easy and fast transfer of the files to the computer, because the XFS format of the memory stick is not very compatible.
 
 It comes with a installation script that (I hope) will install dependencies, SAMBA server, configure the XUSB (X32 USB card) as default ALSA card, and sets a systemctl servicer so the script executes when the Raspberry starts.
+Video of the creature
+https://www.youtube.com/watch?v=mOaofRDe_WI
 
 Thanks for Peter Dikant for his wisdom and generosity.
 This is only a continuation of his marvelous work.
