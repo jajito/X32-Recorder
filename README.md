@@ -2,7 +2,10 @@
 Raspberry PI Behringer X32 Recorder and MP3 player. Records up to 32 tracks and plays MP3. Uses the X32 DAW Remote scribble strip to interact with user.
 You can select files to play, folders, options, play, stop, record, etc with the DAW remote buttons, and see the files, formats, recording time, etc in the scribble.
 You can multitrack record an play with no time or memory size limits. Virtual sond test is possible.
-Plays MP3, perfect for music between gis's parts.
+Attention, to prevent accidental recordings stop, to stop recording you have to simultaneously push the record and stop buttons.
+You can navigate the Iser INterface with Rew and FF buttons, select wint Playh button and go back in folders tree selecting (..)
+
+Plays MP3, perfect for music between gig's parts.
 
 Pure Pyhton and Raspberry Pi. Tested with a Raspberry Pi 4 and records up to 32 tracks with no underuns.
 Completely autonomous (hopefully) and operable fromn the X32 through the DAW Remote transport Scribble Strip (DAW Remote/Matrix Main C).
@@ -19,4 +22,5 @@ Thanks for Peter Dikant for his wisdom and generosity.
 This is only a continuation of his marvelous work.
 https://dikant.de/2018/02/28/raspberry-xr18-recorder/
 
-I'm not a programmer, so excuse my rough coding
+I'm not a programmer, so excuse my rough coding and my poor english.
+If you find it useful or you are making money with it, consider buying me a coffee. 
